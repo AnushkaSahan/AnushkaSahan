@@ -1,16 +1,91 @@
-## Hi there 👋
+<!-- Title Section -->
+<h3 align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px" alt="About me icon" />
+  </picture>
+</h3>
 
-<!--
-**AnushkaSahan/AnushkaSahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <span style="color:#0078FF;">Anushka Sahan</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 React & Spring Boot Developer | 💻 Full-Stack Engineer | 🌐 Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20Scalable%20Apps%20With%20Passion;Full-Stack%20%7C%20Mobile%20Developer%20%7C%20Clean%20Code%20Advocate;Always%20Learning%20%26%20Innovating%20🚀&center=true&width=550&height=45" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnushkaZ-2004&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 I’m currently learning **React & Spring Boot** 
+
+- 💬 Ask me about **C, C# & Java**
+
+- 💡 Turning **ideas into real-world software**
+
+- 🔭 Passionate about **solving problems with code**
+
+- 📫 How to reach me **anushkasahan209@gmail.com**
+
+- ⚡ Fun fact **That's what she said!** 😄
+
+---
+
+### 🧠 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,java,spring,react,js,ts,python,html,css,mysql,nodejs,sqlite,linux,git,postman,docker,idea,vscode,visualstudio,eclipse" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnushkaSahan&show_icons=true&theme=blueberry&rank_icon=github&hide_title=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaSahan&layout=compact&theme=blueberry" height="180em" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AnushkaSahan&theme=blueberry" height="180em" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnushkaSahan&theme=blueberry&row=1&column=7&margin-w=8&margin-h=8&no-bg=false" width="84%" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/anushkasahan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anushkasahan209@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_anushka_sahan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/anushka_sahan" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">✨ Keep Building. Keep Learning. Keep Growing. ✨</h4>
