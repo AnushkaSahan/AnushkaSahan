@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anushka%20Sahan&fontSize=42&fontAlignY=30&desc=💻%20Full-Stack%20Engineer%20|%20🔐%20React%20and%20Spring%20Boot%20Developer%20|%20🌐%20Tech%20Enthusiast&descAlignY=51&descSize=18&animation=twinkling" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8FF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Scalable+Web+%26+Mobile+Applications+%F0%9F%9A%80;Passionate+About+Clean+Code+%26+Best+Practices+%E2%9C%A8;Always+Learning+%7C+Always+Innovating+%F0%9F%92%A1" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anushka%20Sahan&fontSize=42&fontAlignY=30&desc=💻%20Full-Stack%20Engineer%20|%20🔐%20React%20and%20Spring%20Boot%20Developer%20|%20🌐%20Tche%20Enthusiast&descAlignY=51&descSize=18&animation=twinkling" /> 
 
 <!-- Animated Coding GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
