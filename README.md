@@ -1,10 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anushka%20Sahan&fontSize=42&fontAlignY=30&desc=💻%20Full-Stack%20Engineer%20|%20🔐%20Passionate%20Web%20and%20Mobile%20Developer%20|%20🌐%20Tech%20Enthusiast&descAlignY=51&descSize=18&animation=twinkling" /> 
+<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Anushka Sahan</span></h1>
+<h3 align="center">💻 Full-Stack Engineer | 🔐 Passionate Web & Mobile Developer | 🌐 Tech Enthusiast </h3>
 
 <!-- Animated Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/> -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Web Developer GIF">
+</div>
 
 <!-- Profile Views & Social Badges -->
 <p>
@@ -24,6 +28,8 @@
 - 💬 Ask me about **C, C# & Java**
 
 - 💡 Turning **ideas into real-world software**
+  
+- 🌐 Website [https://anushkasahan.vercel.app/](https://anushkasahan.vercel.app/)
 
 - 🔭 Passionate about **solving problems with code**
 
