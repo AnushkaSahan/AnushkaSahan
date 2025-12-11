@@ -1,27 +1,28 @@
 <div align="center">
 
-<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Anushka Sahan</span></h1>
-<h3 align="center">💻 Full-Stack Engineer | 🔐 Passionate Web & Mobile Developer | 🌐 Tech Enthusiast </h3>
+<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px></picture></h3>
 
-<!-- Animated Coding GIF -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/> -->
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Web Developer GIF">
+<h1 align="center">Hi , I'm Anushka Sahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">🚀Full-Stack Developer (Spring Boot & React) | Passionate Web & Mobile Developer | Tech Enthusiast</h1>
 </div>
 
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AnushkaZ-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AnushkaSahan?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
+<br/>
+
+<p align="center">
+  <a href="mailto:anushkasahan209@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anushkasahan209%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/anushka-sahan">
+    <img src="https://img.shields.io/badge/LinkedIn-Anushka%20Sahan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://fb.com/anushka.sahan.2004">
+    <img src="https://img.shields.io/badge/Facebook-Anushka%20Sahan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </p>
-
-</div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🌱 I’m currently learning **React & Spring Boot** 
 
@@ -39,8 +40,7 @@
 
 ---
 
-### 🛠️ Tech Arsenal
-
+### Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,java,spring,react,js,ts,python,html,css,mysql,nodejs,sqlite,linux,git,postman,docker,idea,vscode,visualstudio,eclipse" />
@@ -49,40 +49,31 @@
 
 ---
 
-### 📈 GitHub Insights
+### GitHub Insights
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnushkaSahan&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaSahan&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnushkaZ-2004&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaZ-2004&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaSahan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaSahan&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnushkaSahan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaZ-2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaZ-2004&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 📫 Let's Connect & Collaborate
+### GitHub Achievements
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnushkaZ-2004&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2)](https://discord.gg/anushka_sahan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335)](mailto:anushkasahan209@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/anushkasahan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2)](https://facebook.com/anushka.sahan.2004)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F)](https://instagram.com/_anushka_sahan)
+---
 
 </div>
 
 <div align="center">
+
 
 </div>
