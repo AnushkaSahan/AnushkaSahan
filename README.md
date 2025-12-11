@@ -34,7 +34,7 @@
 
 - 🔭 Passionate about **solving problems with code**
 
-- 📫 How to reach me **anushkasahan209@gmail.com**
+- 📫 How to reach me **anushkasahan200439@gmail.com**
 
 - ⚡ Fun fact **That's what she said!** 😄
 
