@@ -9,8 +9,8 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:anushkasahan209@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anushkasahan209%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  <a href="mailto:anushkasahan200439@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anushkasahan200439%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
   <a href="https://linkedin.com/in/anushka-sahan">
     <img src="https://img.shields.io/badge/LinkedIn-Anushka%20Sahan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
