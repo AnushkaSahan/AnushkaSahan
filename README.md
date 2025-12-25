@@ -4,29 +4,42 @@
 
 <h1 align="center">Hi , I'm Anushka Sahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">🚀Full-Stack Developer (Spring Boot & React) | Passionate Web & Mobile Developer | Tech Enthusiast</h1>
+<h3 align="center">🚀 Full-Stack Developer (Spring Boot & React) | Passionate Web & Mobile Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnushkaSahan&label=PROFILE%20VIEWS&color=FF2F2F&style=for-the-badge" alt="Views" />
+  <img src="https://img.shields.io/github/followers/AnushkaSahan?label=FOLLOWERS&style=for-the-badge&color=0078FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/MAINTAINED-YES-FFB100?style=for-the-badge" alt="Maintained" />
+</p>
+
 </div>
 
 <br/>
-
-<p align="center">
- <a href="mailto:anushkasahan200439@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/anushka-sahan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anushkasahan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://fb.com/anushka.sahan.2004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
 
 ---
 
 ###  About Me
 
-I am a dedicated **Full-Stack Developer** with a passion for building scalable web applications and solving complex problems. Currently focusing on mastering the **Spring Boot & React** ecosystem.
-
-- 🚀 **Currently learning:** Advanced Microservices & Cloud Native patterns.
-- 💬 **Ask me about:** Java, Spring, React and Database Architecture.
-- 🛠️ **Goal:** Building high-performance software that impacts lives.
-- 📫 **Reach me at:** [anushkasahan200439@gmail.com](mailto:anushkasahan200439@gmail.com)
-- ⚡ Fun fact **That's what she said!** 😄
+<table border="0">
+  <tr>
+    <td width="65%" valign="top">
+      <p align="left">
+        I am a dedicated <b>Full-Stack Developer</b> with a passion for building scalable web applications and solving complex problems. Currently, I am deeply involved in mastering the <b>Spring Boot & React</b> ecosystem to create seamless user experiences and robust backends.
+      </p>
+      <ul>
+        <li>🚀 <b>Currently learning:</b> Advanced Microservices & Cloud Native patterns.</li>
+        <li>💬 <b>Ask me about:</b> Java, Spring, React, and Database Architecture.</li>
+        <li>🛠️ <b>My Goal:</b> Engineering high-performance software that creates a real impact.</li>
+        <li>⚡ <b>Fun Fact:</b> <i>"That's what she said!"</i> 😄</li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+           style="width: 100%; height: auto; display: block; border-radius: 10px;" 
+           alt="Web Developer GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,6 +80,16 @@ I am a dedicated **Full-Stack Developer** with a passion for building scalable w
 
 
 ---
+
+### Connect With Me
+
+<p align="center">
+ <a href="mailto:anushkasahan200439@gmail.com"><img src="https://img.shields.io/badge/Email-FF2F2F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/anushka-sahan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://anushkasahan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+ <a href="https://fb.com/anushka.sahan.2004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
   <b>Happy Coding! 🚀</b>
