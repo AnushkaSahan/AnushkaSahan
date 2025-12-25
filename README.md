@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Full-Stack Developer (Spring Boot & React) | Passionate Web & Mobile Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnushkaSahan&label=PROFILE%20VIEWS&color=FF2F2F&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=AnushkaZ-2004&label=PROFILE%20VIEWS&color=FF2F2F&style=for-the-badge" alt="Views" />
   <img src="https://img.shields.io/github/followers/AnushkaSahan?label=FOLLOWERS&style=for-the-badge&color=0078FF" alt="Followers" />
   <img src="https://img.shields.io/badge/MAINTAINED-YES-FFB100?style=for-the-badge" alt="Maintained" />
 </p>
