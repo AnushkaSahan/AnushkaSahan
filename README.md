@@ -25,10 +25,10 @@
         I am a dedicated <b>Full-Stack Developer</b> with a passion for building scalable web applications and solving complex problems. Currently, I am deeply involved in mastering the <b>Spring Boot & React</b> ecosystem to create seamless user experiences and robust backends.
       </p>
       <ul>
-        <li>🚀 <b>Currently learning:</b> Advanced Microservices & Cloud Native patterns.</li>
-        <li>💬 <b>Ask me about:</b> Java, Spring, React, and Database Architecture.</li>
-        <li>🛠️ <b>My Goal:</b> Engineering high-performance software that creates a real impact.</li>
-        <li>⚡ <b>Fun Fact:</b> <i>"That's what she said!"</i> 😄</li>
+        <li>🚀 <b>Currently learning</b> Advanced Microservices & Cloud Native patterns.</li>
+        <li>💬 <b>Ask me about</b> Java, Spring, React and Database Architecture.</li>
+        <li>🛠️ <b>My Goal</b> Engineering high-performance software that creates a real impact.</li>
+        <li>⚡ <b>Fun Fact</b> "That's what she said!" 😄</li>
       </ul>
     </td>
     <td width="40%" valign="middle" align="center">
@@ -86,9 +86,4 @@
  <a href="https://linkedin.com/in/anushka-sahan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://anushkasahan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
  <a href="https://fb.com/anushka.sahan.2004"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>Happy Coding! 🚀</b>
 </p>
