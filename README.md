@@ -25,10 +25,11 @@
         I am a dedicated <b>Full-Stack Developer</b> with a passion for building scalable web applications and solving complex problems. Currently, I am deeply involved in mastering the <b>Spring Boot & React</b> ecosystem to create seamless user experiences and robust backends.
       </p>
       <ul>
-        <li>🚀 <b>Currently learning</b> Advanced Microservices & Cloud Native patterns.</li>
-        <li>💬 <b>Ask me about</b> Java, Spring, React and Database Architecture.</li>
-        <li>🛠️ <b>My Goal</b> Engineering high-performance software that creates a real impact.</li>
-        <li>⚡ <b>Fun Fact</b> "That's what she said!" 😄</li>
+        <li>🌱 Currently learning <b>Advanced Microservices & Cloud Native patterns.</b></li>
+        <li>🌐 Website <a href="https://anushkasahan.vercel.app/" target="_blank">https://anushkasahan.vercel.app/</a></li>
+        <li>💬 Ask me about <b>Java, Spring, React and Database Architecture.</b></li>
+        <li>📫 How to reach me <a href="mailto:anushkasahan200439@gmail.com">anushkasahan209@gmail.com</a></li>
+        <li>⚡ Fun Fact <b>That's what she said! 😄</b></li>
       </ul>
     </td>
     <td width="40%" valign="middle" align="center">
@@ -43,24 +44,9 @@
 
 ### Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="250"><b>Frontend</b></td>
-    <td align="center" width="250"><b>Backend</b></td>
-    <td align="center" width="250"><b>Tools & Others</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,cs" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,linux,git,postman" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,cs,css,docker,express,figma,git,github,html,idea,java,js,linux,mongodb,mysql,nodejs,postgres,postman,python,react,spring,sqlite,tailwind,ts,vscode" />
+</p>
 
 ---
 
