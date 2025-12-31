@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi , I'm Anushka Sahan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">🚀 Full-Stack Developer (Spring Boot & React) | Passionate Web & Mobile Developer | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | Passionate Web & Mobile Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnushkaZ-2004&label=PROFILE%20VIEWS&color=FF2F2F&style=for-the-badge" alt="Views" />
@@ -18,34 +18,20 @@
 
 ###  About Me
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <p align="left">
-        I am a dedicated <b>Full-Stack Developer</b> with a passion for building scalable web applications and solving complex problems. Currently, I am deeply involved in mastering the <b>Spring Boot & React</b> ecosystem to create seamless user experiences and robust backends.
-      </p>
-      <ul>
-        <li>🌱 Currently learning <b>Advanced Microservices & Cloud Native patterns.</b></li>
-        <li>🌐 Website <a href="https://anushkasahan.vercel.app/" target="_blank">https://anushkasahan.vercel.app/</a></li>
-        <li>💬 Ask me about <b>Java, Spring, React and Database Architecture.</b></li>
-        <li>📫 How to reach me <a href="mailto:anushkasahan200439@gmail.com">anushkasahan209@gmail.com</a></li>
-        <li>⚡ Fun Fact <b>That's what she said! 😄</b></li>
-      </ul>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
-           style="width: 100%; height: auto; display: block; border-radius: 10px;" 
-           alt="Web Developer GIF">
-    </td>
-  </tr>
-</table>
+I am a dedicated **Full-Stack Developer** focused on building scalable web applications and solving complex architectural challenges. Currently, I am deep-diving into the **Spring Boot & React** ecosystem to bridge the gap between robust backends and seamless user experiences.
+
+- 🌱 **Learning:** Advanced Microservices & Cloud Native patterns.
+- 💬 **Ask me about:** Java, Spring, React and Database Architecture.
+- 📧 **Reach me:** [anushkasahan200439@gmail.com](mailto:anushkasahan200439@gmail.com)
+- 🌐 **Portfolio:** [anushkasahan.vercel.app](https://anushkasahan.vercel.app/)
+- 🤣 **Fun Fact:** "That's what she said!"
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,cs,css,docker,express,figma,git,github,html,idea,java,js,linux,mongodb,mysql,nodejs,postgres,postman,python,react,spring,sqlite,tailwind,ts,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,c,cs,css,docker,express,figma,git,github,html,idea,java,js,linux,mongodb,mysql,nodejs,postgres,postman,python,react,spring,sqlite,tailwind,ts,vscode" />
 </p>
 
 ---
